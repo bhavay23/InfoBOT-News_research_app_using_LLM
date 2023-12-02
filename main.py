@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "COPY and PASTE your OPENAI API key here"
 
 def set_background_image(image_path):
     # Set the background image using custom CSS
