@@ -22,7 +22,7 @@
 
 
 ## Installation
-
+ 
 1.Clone this repository to your local machine using:
 
 ```bash
@@ -43,6 +43,11 @@
 ```bash
   OPENAI_API_KEY=your_api_key_here
 ```
+5. Run the Streamlit App:
+```bash
+  streamlit run app.py
+```
+
 ## Usage/Examples
 
 1. Run the Streamlit app by executing:
